@@ -14,6 +14,7 @@ class JenkinsdemoApplicationTests
 	{
 		logger.info("Test case executing");
 		logger.info("Test case executing second log");
+		logger.info("Testing pipeline");
 	}
 
 }
