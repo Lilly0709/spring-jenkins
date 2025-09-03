@@ -12,7 +12,7 @@ class JenkinsdemoApplicationTests
 	@Test
 	public void contextLoads()
 	{
-		logger.info("Testing pipeline using build pipeline");
+		logger.info("Testing pipeline using build pipeline2");
 	}
 
 }
