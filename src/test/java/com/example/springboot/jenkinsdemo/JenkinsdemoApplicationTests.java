@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class JenkinsdemoApplicationTests 
 {
 	@Test
-	public void contextLoads()
+	public  contextLoads()
 	{
 
 	}
