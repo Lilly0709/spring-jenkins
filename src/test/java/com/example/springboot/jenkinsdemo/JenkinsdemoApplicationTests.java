@@ -8,11 +8,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class JenkinsdemoApplicationTests 
 {
-	public static Logger logger = LoggerFactory.getLogger(JenkinsdemoApplicationTests.class);
 	@Test
 	public void contextLoads()
 	{
-		logger.info("Testing pipeline using build pipeline2");
+
 	}
 
 }
